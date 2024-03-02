@@ -5,6 +5,10 @@ body {
     color: #222;
 }
 
+h1 {
+    font-size: 56px;
+}
+
 .main_body {
     display: inline-block;
     text-align: left;
