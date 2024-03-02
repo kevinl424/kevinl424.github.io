@@ -27,3 +27,8 @@ body {
     flex-direction: column;
     height: 200px;
 }
+
+.project_title {
+    font-size: 40px;
+    font-weight: bold;
+}
