@@ -5,8 +5,12 @@ body {
     color: #222;
 }
 
-h1 {
+#main_title {
     font-size: 56px;
+}
+
+#project_title {
+    font-size: 38px;
 }
 
 .main_body {
@@ -14,4 +18,5 @@ h1 {
     text-align: left;
     max-width: 38em;
     margin-top: 3em;
+    margin-bottom: 3em;
 }
