@@ -1,0 +1,6 @@
+.main_body {
+    display: inline-block;
+    text-align: left;
+    max-width: 38em;
+    margin-top: 3em;
+}
