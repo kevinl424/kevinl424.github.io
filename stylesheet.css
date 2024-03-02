@@ -10,7 +10,14 @@ body {
 }
 
 #project_title {
-    font-size: 38px;
+    font-size: 
+    38px;
+}
+
+#main_container {
+    display: table;
+    height: 100%;
+    width: 100%;
 }
 
 .main_body {
